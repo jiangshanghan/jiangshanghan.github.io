@@ -2,3 +2,28 @@
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 theme: alpha-dust
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about.html
+# Logo (Font Awesome Class)
+fa_logo: fa-cube
+# Footer About Text
+footer_about: "Make Websites. Make Magic."
+#Footer Copyright Line
+footer_copyright: "@Untitled. All right reserved | Design & Hexo <a href=\"http://www.codeblocq.com/\">Jonathan Klughertz</a>"
+# Default post title
+default_post_title: Untitled
+# Comments.
+comments:
+  # Disqus comments
+  disqus_shortname: klugjotest
+# Google Analytics Tracking ID
+google_analytics:
+# Social Accounts
+mastodon_url: https://allships.run/@jiangshanghan
+pixelfed_url: https://pixelfed.social/@jiangshanghan
+github_url: https://github.com/klugjo/hexo-theme-alpha-dust
+email_url: \#
+rss_url: https://jiangshanghan.art.blog
