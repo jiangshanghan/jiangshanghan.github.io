@@ -27,3 +27,17 @@ pixelfed_url: https://pixelfed.social/@jiangshanghan
 github_url: https://github.com/klugjo/hexo-theme-alpha-dust
 email_url: \#
 rss_url: https://jiangshanghan.art.blog
+
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about.html
+  Categories: /categories
+
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about.html
+  Tags: /tags
