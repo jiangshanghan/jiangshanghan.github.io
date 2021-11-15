@@ -5,3 +5,4 @@
 某种程度上我是想如果把所有的文件都做成Markdown格式后直接add files能不能行。
 
 https://www.w3school.com.cn/tags/tag_p.asp 这有一个HTML代码参考表
+基础 https://github.com/klugjo/hexo-theme-alpha-dust
