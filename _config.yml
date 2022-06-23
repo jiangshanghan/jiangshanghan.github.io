@@ -9,4 +9,4 @@ description: .--- .. .- -. --. -....- ... .... .- -. --. -....- .... .- -.
 github_username: jiangshanghan
 
 # Build settings
-# paginate: 10              # 一页你准备放几篇文章
+# paginate: 10
