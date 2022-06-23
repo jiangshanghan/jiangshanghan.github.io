@@ -10,3 +10,15 @@ github_username: jiangshanghan
 
 # Build settings
 # paginate: 10
+
+sidebar: true 
+sidebar-about-description: Chinese writer
+sidebar-avatar: /img/avatar-by.jpg 
+
+# Friends
+friends: [
+    {
+        title: 原始版本,
+        href: "https://jiangshanghan.art.blog/"
+    }
+]
