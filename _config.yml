@@ -1,1 +1,12 @@
 theme: jekyll-theme-hacker
+
+# Site settings
+title: 一潭星动 2.0
+SEOTitle: 一潭星动 | 江尚寒
+description: .--- .. .- -. --. -....- ... .... .- -. --. -....- .... .- -.      
+
+# SNS settings   
+github_username: jiangshanghan
+
+# Build settings
+# paginate: 10              # 一页你准备放几篇文章
